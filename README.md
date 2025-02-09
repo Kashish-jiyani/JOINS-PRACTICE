@@ -1,3 +1,15 @@
+
+Name: Kashish Jiyani
+
+Company: CODTECH IT SOLUTIONS
+
+ID :CT08LQI
+
+Domain: SQL
+
+Tasks Duration: January 10th,2025 to February 10th, 2025.
+
+Mentor:Santhosh
 # JOINS-PRACTICE
 To perform `INNER`, `LEFT`, `RIGHT`, and `FULL` joins on tables and combine data meaningfully, let’s break down each join type and show some SQL examples.
 
